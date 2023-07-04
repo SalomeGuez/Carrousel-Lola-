@@ -1,0 +1,2 @@
+#!/bin/bash 
+cp /home/user/documents/report.pdf /home/user/Desktop
